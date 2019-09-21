@@ -3,3 +3,8 @@
     height: 50px;
     background-color: #bada55;
 }
+.box:hover {
+    width:150px;
+    transition-property: width;
+    transition-duration: 2s;
+}
